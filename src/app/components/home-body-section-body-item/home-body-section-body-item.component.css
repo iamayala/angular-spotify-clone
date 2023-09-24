@@ -1,0 +1,33 @@
+.container {
+  width: 170px;
+  height: 260px;
+  background-color: #1a1a1a;
+  padding: 15px;
+  border-radius: 8px;
+}
+
+.container .img-container {
+  position: relative;
+  width: 140px;
+  height: 140px;
+}
+
+.img-container-btn {
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+}
+
+.container img {
+  width: 140px;
+  height: 140px;
+  border-radius: 8px;
+}
+
+.container h3 {
+  margin: 10px 0;
+}
+
+.container span {
+  font-size: 13px;
+}

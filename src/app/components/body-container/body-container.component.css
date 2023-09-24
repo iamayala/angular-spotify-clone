@@ -1,0 +1,6 @@
+.container {
+  width: calc(996px - 20px);
+  border-radius: 8px;
+  padding: 8px 20px;
+  background-color: #121212;
+}

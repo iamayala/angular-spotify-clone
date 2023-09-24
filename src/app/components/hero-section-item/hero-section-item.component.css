@@ -1,0 +1,15 @@
+.container {
+  height: 80px;
+  width: 305px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  background-color: #1a1a1a;
+  gap: 10px;
+  padding-right: 10px;
+}
+
+.container img {
+  height: 80px;
+  width: 80px;
+}

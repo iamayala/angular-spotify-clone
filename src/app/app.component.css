@@ -1,0 +1,9 @@
+.main-app {
+  display: flex;
+  flex-direction: row;
+  min-height: 100vh;
+  max-width: 100vw;
+  background-color: #000000;
+  padding: 8px;
+  gap: 20px;
+}
